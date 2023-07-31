@@ -1,7 +1,7 @@
 # ResolverTechnicalAssessment
 
 Instructions to run this project : 
-#Prerequisite : 
+#Prerequisite :
 > Need Chrome browser and plugins to run these tests on chrome browser 
 > Has to download index.html page and change the config.properties file  where URL has been given to run  all the tests on your local machine since it’s not hosted remotely
 > Has given TestNG test assertions so need to have TestNG plugin and dependencies
