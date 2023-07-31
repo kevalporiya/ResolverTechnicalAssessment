@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-31T15:49:59 EDT" name="Suite" finished-at="2023-07-31T15:50:19 EDT" duration-ms="20230">
+    <groups>
+    </groups>
+    <test started-at="2023-07-31T15:49:59 EDT" name="TestLogin" finished-at="2023-07-31T15:50:04 EDT" duration-ms="4465">
+      <class name="testClass.TestLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClass.TestLogin@63376bed]" started-at="2023-07-31T15:49:59 EDT" name="setUp" finished-at="2023-07-31T15:50:03 EDT" duration-ms="4070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogin()[pri:1, instance:testClass.TestLogin@63376bed]" started-at="2023-07-31T15:50:03 EDT" name="testLogin" finished-at="2023-07-31T15:50:04 EDT" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClass.TestLogin@63376bed]" started-at="2023-07-31T15:50:04 EDT" name="tearDown" finished-at="2023-07-31T15:50:04 EDT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClass.TestLogin -->
+    </test> <!-- TestLogin -->
+    <test started-at="2023-07-31T15:50:04 EDT" name="TestListItems" finished-at="2023-07-31T15:50:05 EDT" duration-ms="1250">
+      <class name="testClass.TestListItems">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClass.TestListItems@6fa51cd4]" started-at="2023-07-31T15:50:04 EDT" name="setUp" finished-at="2023-07-31T15:50:05 EDT" duration-ms="1026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testListItems()[pri:2, instance:testClass.TestListItems@6fa51cd4]" started-at="2023-07-31T15:50:05 EDT" name="testListItems" finished-at="2023-07-31T15:50:05 EDT" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testListItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClass.TestListItems@6fa51cd4]" started-at="2023-07-31T15:50:05 EDT" name="tearDown" finished-at="2023-07-31T15:50:05 EDT" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClass.TestListItems -->
+    </test> <!-- TestListItems -->
+    <test started-at="2023-07-31T15:50:05 EDT" name="TestDropdownMenu" finished-at="2023-07-31T15:50:06 EDT" duration-ms="1229">
+      <class name="testClass.TestDropdownMenu">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClass.TestDropdownMenu@14028087]" started-at="2023-07-31T15:50:05 EDT" name="setUp" finished-at="2023-07-31T15:50:06 EDT" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDropdownMenu()[pri:3, instance:testClass.TestDropdownMenu@14028087]" started-at="2023-07-31T15:50:06 EDT" name="testDropdownMenu" finished-at="2023-07-31T15:50:06 EDT" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdownMenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClass.TestDropdownMenu@14028087]" started-at="2023-07-31T15:50:06 EDT" name="tearDown" finished-at="2023-07-31T15:50:06 EDT" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClass.TestDropdownMenu -->
+    </test> <!-- TestDropdownMenu -->
+    <test started-at="2023-07-31T15:50:06 EDT" name="TestButtons" finished-at="2023-07-31T15:50:07 EDT" duration-ms="1187">
+      <class name="testClass.TestButtons">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClass.TestButtons@5b247367]" started-at="2023-07-31T15:50:06 EDT" name="setUp" finished-at="2023-07-31T15:50:07 EDT" duration-ms="986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testButtons()[pri:4, instance:testClass.TestButtons@5b247367]" started-at="2023-07-31T15:50:07 EDT" name="testButtons" finished-at="2023-07-31T15:50:07 EDT" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testButtons -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClass.TestButtons@5b247367]" started-at="2023-07-31T15:50:07 EDT" name="tearDown" finished-at="2023-07-31T15:50:07 EDT" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClass.TestButtons -->
+    </test> <!-- TestButtons -->
+    <test started-at="2023-07-31T15:50:07 EDT" name="TestButtonDisplayAndClick" finished-at="2023-07-31T15:50:18 EDT" duration-ms="10758">
+      <class name="testClass.TestButtonDisplayAndClick">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClass.TestButtonDisplayAndClick@6440112d]" started-at="2023-07-31T15:50:07 EDT" name="setUp" finished-at="2023-07-31T15:50:08 EDT" duration-ms="977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testButtonDisplayAndClick()[pri:5, instance:testClass.TestButtonDisplayAndClick@6440112d]" started-at="2023-07-31T15:50:08 EDT" name="testButtonDisplayAndClick" finished-at="2023-07-31T15:50:18 EDT" duration-ms="9613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testButtonDisplayAndClick -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClass.TestButtonDisplayAndClick@6440112d]" started-at="2023-07-31T15:50:18 EDT" name="tearDown" finished-at="2023-07-31T15:50:18 EDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClass.TestButtonDisplayAndClick -->
+    </test> <!-- TestButtonDisplayAndClick -->
+    <test started-at="2023-07-31T15:50:18 EDT" name="TestTableData" finished-at="2023-07-31T15:50:19 EDT" duration-ms="1317">
+      <class name="testClass.TestTableData">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testClass.TestTableData@221a3fa4]" started-at="2023-07-31T15:50:18 EDT" name="setUp" finished-at="2023-07-31T15:50:19 EDT" duration-ms="1019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testTableData()[pri:6, instance:testClass.TestTableData@221a3fa4]" started-at="2023-07-31T15:50:19 EDT" name="testTableData" finished-at="2023-07-31T15:50:19 EDT" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTableData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testClass.TestTableData@221a3fa4]" started-at="2023-07-31T15:50:19 EDT" name="tearDown" finished-at="2023-07-31T15:50:19 EDT" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testClass.TestTableData -->
+    </test> <!-- TestTableData -->
+  </suite> <!-- Suite -->
+</testng-results>
